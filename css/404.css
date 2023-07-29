@@ -1,0 +1,401 @@
+.version._404 /* version checker */
+{
+	color: #0000E4;
+	background-color: #D470DD;
+}
+
+@font-face
+{
+	font-family: '__Consolas_5';
+	src: url('../fonts/consola.eot');
+	src: local('☺'), url('../fonts/consola.woff') format('woff'), url('../fonts/consola.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+#page
+{
+	padding-bottom: 62px;
+	margin-left: auto;
+	width: 100%;
+	z-index: 1;
+	border-color: transparent;
+	background-color: transparent;
+	border-width: 0px;
+	margin-right: auto;
+	background-image: none;
+}
+
+#u22904
+{
+	left: 20px;
+	min-height: 34px;
+	position: fixed;
+	z-index: 2;
+	width: 52px;
+	top: 20px;
+}
+
+#pu48223-3
+{
+	z-index: 3;
+	margin-right: -10000px;
+}
+
+#u48223-3
+{
+	width: 100%;
+	filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.25));
+	-webkit-filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.25));
+	position: relative;
+	border-color: transparent;
+	filter: alpha(opacity=100);
+	opacity: 1;
+	margin-right: -10000px;
+	z-index: 3;
+	border-width: 0px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	background: transparent url("../images/layerm.svg?crc=3921109841") no-repeat right bottom;
+	background-size: cover;
+}
+
+.Frame
+{
+	border-color: #949494;
+	border-width: 16px;
+}
+
+.nosvg #u48223-3
+{
+	background-image: url('../images/layerm_poster_u38996.png?crc=396092649');
+}
+
+#u48160-4
+{
+	color: #EFEFEF;
+	font-family: '__Consolas_5';
+	position: relative;
+	border-color: #666666;
+	border-style: solid;
+	text-align: center;
+	margin-right: -10000px;
+	z-index: 6;
+	background-color: #949494;
+	border-width: 5px;
+	font-weight: 400;
+}
+
+#u48160-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	background-color: #424242;
+	margin-right: -10000px;
+	margin-left: 0%;
+}
+
+#u48160-2
+{
+	padding-top: 7px;
+}
+
+#u48172-3
+{
+	filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.25));
+	-webkit-filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.25));
+	position: relative;
+	border-color: transparent;
+	filter: alpha(opacity=100);
+	opacity: 1;
+	margin-right: -10000px;
+	z-index: 10;
+	border-width: 0px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	background: transparent url("../images/layerf.svg?crc=3873752239") no-repeat left bottom;
+	background-size: cover;
+}
+
+.nosvg #u48172-3
+{
+	background-image: url('../images/layerf_poster_u34345.png?crc=4158115585');
+}
+
+#u48175-4
+{
+	color: #3D3936;
+	font-family: '__Consolas_5';
+	position: relative;
+	font-weight: 400;
+	margin-right: -10000px;
+	text-align: center;
+	z-index: 13;
+	background-color: transparent;
+}
+
+#u48555
+{
+	margin-right: -10000px;
+	position: relative;
+	z-index: 22;
+	background-color: transparent;
+	filter: alpha(opacity=75);
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+}
+
+#u48164
+{
+	bottom: 20px;
+	background-color: transparent;
+	position: fixed;
+	z-index: 21;
+	border-color: transparent;
+	border-width: 0px;
+	right: 20px;
+}
+
+.html
+{
+	background: #E4F9AE url("../images/bg.png?crc=403400356") repeat center center fixed;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 1081px), print
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 330px;
+		max-width: 1440px;
+	}
+
+	#pu48223-3
+	{
+		width: 76.55%;
+		margin-left: 12.47%;
+	}
+
+	#u48223-3
+	{
+		min-height: 384px;
+	}
+
+	.Frame
+	{
+		background-color: #9F9F9F;
+		background-color: rgba(128,128,128,0.75);
+	}
+
+	#u48160-4
+	{
+		min-height: 51px;
+		font-size: 24px;
+		line-height: 36px;
+		margin-top: 180px;
+		width: 32.3%;
+		left: 57.69%;
+	}
+
+	#u48160-4:hover
+	{
+		margin-top: 180px;
+		min-height: 51px;
+		width: 32.3%;
+	}
+
+	#u48172-3
+	{
+		min-height: 315px;
+		width: 41.68%;
+		left: 5.06%;
+	}
+
+	#u48175-4
+	{
+		min-height: 112px;
+		font-size: 28px;
+		line-height: 34px;
+		margin-top: 138px;
+		width: 33.86%;
+		left: 8.93%;
+	}
+
+	#u48186-4
+	{
+		z-index: 17;
+		min-height: 61px;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		color: #3D3936;
+		font-size: 40px;
+		text-align: center;
+		line-height: 48px;
+		font-family: '__Consolas_5';
+		font-weight: 400;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 77px;
+		width: 33.86%;
+		left: 8.93%;
+	}
+
+	#u48555
+	{
+		margin-top: 71px;
+		width: 33.22%;
+		left: 57.69%;
+	}
+
+	#u48555_img
+	{
+		width: 100%;
+	}
+
+	#u48164
+	{
+		width: 104px;
+		min-height: 107px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 446px);
+	}
+
+}
+
+@media (max-width: 1080px)
+{
+	/*
+
+*/
+
+	#muse_css_mq
+	{
+		background-color: #000438;
+	}
+
+	#bp_1080.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 352px;
+		max-width: 1080px;
+	}
+
+	#pu48223-3
+	{
+		width: 76.89%;
+		margin-left: 12.46%;
+	}
+
+	#u48223-3
+	{
+		min-height: 409px;
+	}
+
+	.Frame
+	{
+		background-color: #9F9F9F;
+		background-color: rgba(128,128,128,0.75);
+	}
+
+	#u48160-4
+	{
+		min-height: 44px;
+		font-size: 16px;
+		line-height: 24px;
+		margin-top: 300px;
+		width: 47.74%;
+		left: 25.53%;
+	}
+
+	#u48160-4:hover
+	{
+		margin-top: 300px;
+		min-height: 44px;
+		width: 47.74%;
+	}
+
+	#u48172-3
+	{
+		min-height: 263px;
+		width: 89.08%;
+		left: 5.4%;
+	}
+
+	#u48175-4
+	{
+		min-height: 60px;
+		font-size: 20px;
+		line-height: 24px;
+		margin-top: 122px;
+		width: 78.16%;
+		left: 10.93%;
+	}
+
+	#u48222-4
+	{
+		z-index: 17;
+		min-height: 54px;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		color: #3D3936;
+		font-size: 28px;
+		text-align: center;
+		line-height: 34px;
+		font-family: '__Consolas_5';
+		font-weight: 400;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 68px;
+		width: 78.16%;
+		left: 10.93%;
+	}
+
+	#u48555
+	{
+		width: 234px;
+		margin-top: 171px;
+		margin-left: 50%;
+		left: -107px;
+	}
+
+	#u48164
+	{
+		width: 105px;
+		min-height: 108px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 471px);
+	}
+
+	body
+	{
+		overflow-x: hidden;
+		min-width: 318px;
+	}
+
+}
+

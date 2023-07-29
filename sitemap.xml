@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.avishekdas.in/index.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.avishekdas.in/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.avishekdas.in/images/email.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.avishekdas.in/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.avishekdas.in/images/header.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.avishekdas.in/404.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.avishekdas.in/images/header.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.avishekdas.in/assets/cv.pdf</loc>
+    <lastmod>2018-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.avishekdas.in/assets/wait.gif</loc>
+    <lastmod>2009-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

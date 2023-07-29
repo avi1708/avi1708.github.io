@@ -1,0 +1,214 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.avishekdas.in" resolutions="1x" timestamp="1524025780550">
+  <folder name="css">
+    <file name="site_global.css" crc="162084993"/>
+    <file name="master_master.css" crc="3762444688" ref="index:404"/>
+    <file name="nomq_preview_master_master.css" crc="321525473" ref="index:404"/>
+    <file name="index.css" crc="409519555" ref="index"/>
+    <file name="nomq_index.css" crc="4113077416" ref="index"/>
+    <file name="404.css" crc="3839127773" ref="404"/>
+    <file name="nomq_404.css" crc="408956755" ref="404"/>
+  </folder>
+  <folder name="fonts">
+    <file name="consola.woff" crc="3888071149"/>
+    <file name="consola.eot" crc="3903178999"/>
+    <file name="consola.svg" crc="421734836"/>
+  </folder>
+  <folder name="assets">
+    <file name="wait.gif" crc="310829243" seo="true" mt="1247047513000"/>
+    <file name="cv.pdf" crc="3881154679" seo="true" mt="1523704458000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404"/>
+    <file name="museutils.js" crc="17924269" ref="index:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:404"/>
+    <file name="museconfig.js" crc="144853533" ref="index:404"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:404"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:404"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:404"/>
+    <file name="require.js" crc="3861931657" ref="index:404"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="20148906" ref="index"/>
+    <file name="layerb.svg" crc="139397546" ref="index"/>
+    <file name="layerb_poster_u48955.png" crc="4212208879" ref="index"/>
+    <file name="grid-1-u2761-fr.png" crc="223816590" ref="index"/>
+    <file name="grid-7-u2986-fr.png" crc="439103225" ref="index"/>
+    <file name="grid-13-u3004-fr.png" crc="36862634" ref="index"/>
+    <file name="grid-4-u2953-fr.png" crc="3931756911" ref="index"/>
+    <file name="grid-10-u2995-fr.png" crc="3765815894" ref="index"/>
+    <file name="grid-16-u3013-fr.png" crc="410928409" ref="index"/>
+    <file name="grid-5-u2956-fr.png" crc="169506367" ref="index"/>
+    <file name="grid-11-u2992-fr.png" crc="66250918" ref="index"/>
+    <file name="grid-17-u3010-fr.png" crc="3825812831" ref="index"/>
+    <file name="grid-6-u2959-fr.png" crc="30649309" ref="index"/>
+    <file name="grid-12-u2998-fr.png" crc="432427211" ref="index"/>
+    <file name="grid-18-u3016-fr.png" crc="29204889" ref="index"/>
+    <file name="grid-2-u2767-fr.png" crc="3839998182" ref="index"/>
+    <file name="grid-8-u2989-fr.png" crc="4241809045" ref="index"/>
+    <file name="grid-14-u3007-fr.png" crc="218744630" ref="index"/>
+    <file name="grid-3-u2941-fr.png" crc="3995604063" ref="index"/>
+    <file name="grid-9-u3001-fr.png" crc="142792663" ref="index"/>
+    <file name="grid-15-u3019-fr.png" crc="486154022" ref="index"/>
+    <file name="layerl.svg" crc="306430462" ref="index"/>
+    <file name="layerl_poster_u39011.png" crc="4112581661" ref="index"/>
+    <file name="layerc.svg" crc="121997315" ref="index"/>
+    <file name="layerc_poster_u39067.png" crc="56202137" ref="index"/>
+    <file name="layerr.svg" crc="4176165694" ref="index"/>
+    <file name="layerr_poster_u39018.png" crc="316702344" ref="index"/>
+    <file name="text_bar.png" crc="368905462" ref="index">
+      <caption webpage="index" alt="Shift"/>
+    </file>
+    <file name="layerm.svg" crc="3921109841" ref="index:404"/>
+    <file name="layerm_poster_u38996.png" crc="396092649" ref="index:404"/>
+    <file name="linkedin.svg" crc="350344760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin_poster_.png" crc="437855088" ref="index"/>
+    <file name="email.svg" crc="462641238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email_poster_.png" crc="328170563" ref="index"/>
+    <file name="facebook.svg" crc="4039929159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="4271960207" ref="index"/>
+    <file name="layerf.svg" crc="3873752239" ref="index:404"/>
+    <file name="layerf_poster_u34345.png" crc="4158115585" ref="index:404"/>
+    <file name="header.png" crc="369924346" seo="true" ref="index:404">
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.png" crc="403400356" ref="index:404">
+      <caption webpage="404" alt=""/>
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grid-1-u2761-fr2.png" crc="4020702182" ref="index"/>
+    <file name="grid-7-u2986-fr2.png" crc="504693807" ref="index"/>
+    <file name="grid-13-u3004-fr2.png" crc="221998611" ref="index"/>
+    <file name="grid-4-u2953-fr2.png" crc="3915144514" ref="index"/>
+    <file name="grid-10-u2995-fr2.png" crc="3811791202" ref="index"/>
+    <file name="grid-16-u3013-fr2.png" crc="219876206" ref="index"/>
+    <file name="grid-5-u2956-fr2.png" crc="3854857877" ref="index"/>
+    <file name="grid-11-u2992-fr2.png" crc="4048783166" ref="index"/>
+    <file name="grid-17-u3010-fr2.png" crc="495573062" ref="index"/>
+    <file name="grid-6-u2959-fr2.png" crc="159167965" ref="index"/>
+    <file name="grid-12-u2998-fr2.png" crc="3807975129" ref="index"/>
+    <file name="grid-18-u3016-fr2.png" crc="4131434203" ref="index"/>
+    <file name="grid-2-u2767-fr2.png" crc="394416143" ref="index"/>
+    <file name="grid-8-u2989-fr2.png" crc="47067973" ref="index"/>
+    <file name="grid-14-u3007-fr2.png" crc="21334598" ref="index"/>
+    <file name="grid-3-u2941-fr2.png" crc="3816201404" ref="index"/>
+    <file name="grid-9-u3001-fr2.png" crc="4057580771" ref="index"/>
+    <file name="grid-15-u3019-fr2.png" crc="4211342037" ref="index"/>
+    <file name="grid-1-u2761-fr3.png" crc="3841732085" ref="index"/>
+    <file name="grid-7-u2986-fr3.png" crc="17366869" ref="index"/>
+    <file name="grid-13-u3004-fr3.png" crc="78410842" ref="index"/>
+    <file name="grid-4-u2953-fr3.png" crc="239379911" ref="index"/>
+    <file name="grid-10-u2995-fr3.png" crc="372961712" ref="index"/>
+    <file name="grid-16-u3013-fr3.png" crc="171049702" ref="index"/>
+    <file name="grid-5-u2956-fr3.png" crc="191224291" ref="index"/>
+    <file name="grid-11-u2992-fr3.png" crc="270222522" ref="index"/>
+    <file name="grid-17-u3010-fr3.png" crc="469636462" ref="index"/>
+    <file name="grid-6-u2959-fr3.png" crc="4037442858" ref="index"/>
+    <file name="grid-12-u2998-fr3.png" crc="4046085100" ref="index"/>
+    <file name="grid-18-u3016-fr3.png" crc="39137048" ref="index"/>
+    <file name="grid-2-u2767-fr3.png" crc="3954894494" ref="index"/>
+    <file name="grid-8-u2989-fr3.png" crc="190195700" ref="index"/>
+    <file name="grid-14-u3007-fr3.png" crc="3904222176" ref="index"/>
+    <file name="grid-3-u2941-fr3.png" crc="381438191" ref="index"/>
+    <file name="grid-9-u3001-fr3.png" crc="3994041636" ref="index"/>
+    <file name="grid-15-u3019-fr3.png" crc="451166686" ref="index"/>
+    <file name="grid-1-u2761-fr4.png" crc="223816590" ref="index"/>
+    <file name="grid-7-u2986-fr4.png" crc="439103225" ref="index"/>
+    <file name="grid-13-u3004-fr4.png" crc="36862634" ref="index"/>
+    <file name="grid-4-u2953-fr4.png" crc="3931756911" ref="index"/>
+    <file name="grid-10-u2995-fr4.png" crc="3765815894" ref="index"/>
+    <file name="grid-16-u3013-fr4.png" crc="410928409" ref="index"/>
+    <file name="grid-5-u2956-fr4.png" crc="169506367" ref="index"/>
+    <file name="grid-11-u2992-fr4.png" crc="66250918" ref="index"/>
+    <file name="grid-17-u3010-fr4.png" crc="3825812831" ref="index"/>
+    <file name="grid-6-u2959-fr4.png" crc="30649309" ref="index"/>
+    <file name="grid-12-u2998-fr4.png" crc="432427211" ref="index"/>
+    <file name="grid-18-u3016-fr4.png" crc="29204889" ref="index"/>
+    <file name="grid-2-u2767-fr4.png" crc="3839998182" ref="index"/>
+    <file name="grid-8-u2989-fr4.png" crc="4241809045" ref="index"/>
+    <file name="grid-14-u3007-fr4.png" crc="218744630" ref="index"/>
+    <file name="grid-3-u2941-fr4.png" crc="3995604063" ref="index"/>
+    <file name="grid-9-u3001-fr4.png" crc="142792663" ref="index"/>
+    <file name="grid-15-u3019-fr4.png" crc="486154022" ref="index"/>
+    <file name="text_bar-u3616-4-fr.png" crc="3781384508" ref="index"/>
+    <file name="text_bar-u6497-4-fr.png" crc="117266372" ref="index"/>
+    <file name="grid-1-u2761-fr5.png" crc="3775952788" ref="index"/>
+    <file name="grid-7-u2986-fr5.png" crc="3990641165" ref="index"/>
+    <file name="grid-13-u3004-fr5.png" crc="3774641525" ref="index"/>
+    <file name="grid-4-u2953-fr5.png" crc="31834746" ref="index"/>
+    <file name="grid-10-u2995-fr5.png" crc="3833868659" ref="index"/>
+    <file name="grid-16-u3013-fr5.png" crc="25952363" ref="index"/>
+    <file name="grid-5-u2956-fr5.png" crc="156443990" ref="index"/>
+    <file name="grid-11-u2992-fr5.png" crc="66677954" ref="index"/>
+    <file name="grid-17-u3010-fr5.png" crc="3897235171" ref="index"/>
+    <file name="grid-6-u2959-fr5.png" crc="4217250395" ref="index"/>
+    <file name="grid-12-u2998-fr5.png" crc="171822820" ref="index"/>
+    <file name="grid-18-u3016-fr5.png" crc="287288567" ref="index"/>
+    <file name="grid-2-u2767-fr5.png" crc="480888707" ref="index"/>
+    <file name="grid-8-u2989-fr5.png" crc="3824929828" ref="index"/>
+    <file name="grid-14-u3007-fr5.png" crc="3921665403" ref="index"/>
+    <file name="grid-3-u2941-fr5.png" crc="226504990" ref="index"/>
+    <file name="grid-9-u3001-fr5.png" crc="276077047" ref="index"/>
+    <file name="grid-15-u3019-fr5.png" crc="304089809" ref="index"/>
+    <file name="grid-1-u2761-fr6.png" crc="4120408701" ref="index"/>
+    <file name="grid-7-u2986-fr6.png" crc="4045029639" ref="index"/>
+    <file name="grid-13-u3004-fr6.png" crc="3979434833" ref="index"/>
+    <file name="grid-4-u2953-fr6.png" crc="97703035" ref="index"/>
+    <file name="grid-10-u2995-fr6.png" crc="102820848" ref="index"/>
+    <file name="grid-16-u3013-fr6.png" crc="284675311" ref="index"/>
+    <file name="grid-5-u2956-fr6.png" crc="127407132" ref="index"/>
+    <file name="grid-11-u2992-fr6.png" crc="84782602" ref="index"/>
+    <file name="grid-17-u3010-fr6.png" crc="4192088709" ref="index"/>
+    <file name="grid-6-u2959-fr6.png" crc="3924152391" ref="index"/>
+    <file name="grid-12-u2998-fr6.png" crc="3096676" ref="index"/>
+    <file name="grid-18-u3016-fr6.png" crc="297462082" ref="index"/>
+    <file name="grid-2-u2767-fr6.png" crc="4082998095" ref="index"/>
+    <file name="grid-8-u2989-fr6.png" crc="3880576204" ref="index"/>
+    <file name="grid-14-u3007-fr6.png" crc="4035727609" ref="index"/>
+    <file name="grid-3-u2941-fr6.png" crc="3884139390" ref="index"/>
+    <file name="grid-9-u3001-fr6.png" crc="326912927" ref="index"/>
+    <file name="grid-15-u3019-fr6.png" crc="95250752" ref="index"/>
+    <file name="text_bar-u6699-4-fr.png" crc="171405911" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:404"/>
+  </folder>
+  <file name="index.html" crc="219155542" seo="true" mt="1524025668568" redirect="true"/>
+  <file name="404.html" crc="4129093686" seo="true" mt="1524025227226" redirect="true"/>
+</manifest>

@@ -1,0 +1,111 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 330px;
+		max-width: 1440px;
+	}
+
+	#pu48223-3
+	{
+		width: 76.55%;
+		margin-left: 12.47%;
+	}
+
+	#u48223-3
+	{
+		min-height: 384px;
+	}
+
+	.Frame
+	{
+		background-color: #9F9F9F;
+		background-color: rgba(128,128,128,0.75);
+	}
+
+	#u48160-4
+	{
+		min-height: 51px;
+		font-size: 24px;
+		line-height: 36px;
+		margin-top: 180px;
+		width: 32.3%;
+		left: 57.69%;
+	}
+
+	#u48160-4:hover
+	{
+		margin-top: 180px;
+		min-height: 51px;
+		width: 32.3%;
+	}
+
+	#u48172-3
+	{
+		min-height: 315px;
+		width: 41.68%;
+		left: 5.06%;
+	}
+
+	#u48175-4
+	{
+		min-height: 112px;
+		font-size: 28px;
+		line-height: 34px;
+		margin-top: 138px;
+		width: 33.86%;
+		left: 8.93%;
+	}
+
+	#u48186-4
+	{
+		z-index: 17;
+		min-height: 61px;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		color: #3D3936;
+		font-size: 40px;
+		text-align: center;
+		line-height: 48px;
+		font-family: '__Consolas_5';
+		font-weight: 400;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 77px;
+		width: 33.86%;
+		left: 8.93%;
+	}
+
+	#u48555
+	{
+		margin-top: 71px;
+		width: 33.22%;
+		left: 57.69%;
+	}
+
+	#u48555_img
+	{
+		width: 100%;
+	}
+
+	#u48164
+	{
+		width: 104px;
+		min-height: 107px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 446px);
+	}
+
+
