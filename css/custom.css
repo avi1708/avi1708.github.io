@@ -1,0 +1,43 @@
+<style>
+         #custCarousel .carousel-indicators {
+         position: static;
+         margin-top:20px;
+         height: 100px;
+         justify-content: left;
+         margin-right: 12%;
+         margin-left: 12%;
+         }
+         #custCarousel .carousel-indicators > li {
+         width:100px;
+         }
+         #custCarousel .carousel-indicators li img {
+         display: block;
+         opacity: 0.5;
+         }
+         #custCarousel .carousel-indicators li.active img {
+         opacity: 1;
+         }
+         #custCarousel .carousel-indicators li:hover img {
+         opacity: 0.75;
+         }
+         .carousel-item img{
+         width: 848px;
+         height: 600px;
+         min-height: 600px;
+         min-width: inherit;
+         overflow: hidden;
+         }
+         @media (max-width: 1023px){
+         .carousel-item img{
+         width: 80%;
+         min-height: auto;
+         height: 100%;
+         }
+         .carousel-control-prev{
+         display:none;
+         }
+         .carousel-control-next{
+         display:none;
+         }
+         }
+</style>
