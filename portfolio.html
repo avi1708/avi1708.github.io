@@ -23,6 +23,7 @@
       <meta name="twitter:image" content="isteam/ip/418d1a46-be94-4191-8ba8-9cc346a1f32b/header_alt.png"/>
       <meta name="twitter:image:alt" content="Avishek Das"/>
       <meta name="theme-color" content="#f6ffd4"/>
+      <link rel="stylesheet" href="css/bootstrap.min.css">
       <style data-inline-fonts>/* latin */
          @font-face {
          font-family: 'Fredoka One';
@@ -154,15 +155,13 @@
       </style>
       <style>
 		.page-inner { background-color: rgb(246, 255, 212); min-height: 100vh; }
-			  @media (min-width: 1024px){
-			#header_stickynav{
-				position: fixed;
-				z-index: 10000; 
-				left: 0px; 
-				right: 0px; 
-				top: 0px;
-			}
-		}
+		.scrollHeader{
+			position: fixed;
+			z-index: 10000; 
+			left: 0px; 
+			right: 0px; 
+			top: 0px;
+         }
 		
 		.logoAvi{
 			height: 30px;
@@ -188,7 +187,7 @@
                         <div id="freemium-ad-289884"></div>
                         <section data-ux="Section" data-aid="HEADER_SECTION" class="x-el x-el-section c1-1 c1-2 c1-h c1-i c1-j c1-k c1-l c1-b c1-c c1-m c1-n c1-d c1-e c1-f c1-g">
                            <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-o c1-4 c1-h c1-b c1-c c1-d c1-e c1-f c1-g">
-                              <div id="header_stickynav-anchor289886"></div>
+                              <div id="header_stickynav-anchor289886">
                               <div data-ux="Block" data-stickynav-wrapper="true" class="x-el x-el-div c1-1 c1-2 c1-p c1-q c1-b c1-c c1-d c1-e c1-f c1-g">
                                  <div data-ux="Block" data-stickynav="true" id="header_stickynav" class="x-el x-el-div c1-1 c1-2 c1-r c1-h c1-b c1-c c1-d c1-e c1-f c1-g sticky-animate x-c-bg">
                                     <nav data-ux="Block" class="x-el x-el-nav c1-1 c1-2 c1-s c1-t c1-u c1-v c1-w c1-x c1-y c1-b c1-c c1-d c1-z c1-10 c1-11 c1-12 c1-e c1-f c1-g">
@@ -223,7 +222,11 @@
                                                 <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-15 c1-s c1-3k c1-b c1-c c1-d c1-e c1-f c1-g">
                                                    <nav data-ux="Nav" data-aid="HEADER_NAV_RENDERED" role="navigation" class="x-el x-el-nav c1-1 c1-2 c1-1y c1-3l c1-b c1-c c1-d c1-e c1-f c1-g">
                                                       <ul data-ux="List" id="nav-289893" class="x-el x-el-ul c1-1 c1-2 c1-16 c1-18 c1-19 c1-17 c1-3m c1-3n c1-3o c1-s c1-24 c1-25 c1-26 c1-27 c1-b c1-c c1-d c1-e c1-f c1-g">
-                                                         <li data-ux="ListItemInline" class="x-el x-el-li nav-item c1-1 c1-2 c1-3p c1-19 c1-3q c1-1i c1-3r c1-34 c1-3s c1-3t c1-s c1-3u c1-b c1-c c1-3v c1-3w c1-d c1-e c1-f c1-g" style="visibility:visible"><a rel="" role="link" aria-haspopup="false" data-ux="NavLinkActive" target="" data-page="9a2a249f-3c02-4ee1-906e-c6ce01964394" data-edit-interactive="true" href="portfolio.html" data-typography="NavAlpha" class="x-el x-el-a c1-3x c1-3y c1-1q c1-1r c1-1f c1-3z c1-1t c1-b c1-31 c1-44 c1-4c c1-46 c1-47 c1-48 c1-49 c1-4a c1-4b" data-tccl="ux2.HEADER.header9.Nav.Default.Link.Active.289896.click,click">Portfolio</a></li>
+                                                         <li data-ux="ListItemInline" class="x-el x-el-li nav-item c1-1 c1-2 c1-3p c1-19 c1-3q c1-1i c1-3r c1-34 c1-3s c1-3t c1-s c1-3u c1-b c1-c c1-3v c1-3w c1-d c1-e c1-f c1-g" style="visibility:visible"><a rel="" role="link" aria-haspopup="false" data-ux="NavLinkActive" target="" data-page="9a2a249f-3c02-4ee1-906e-c6ce01964394" data-edit-interactive="true" href="portfolio.html" data-typography="NavAlpha" class="x-el x-el-a c1-3x c1-3y c1-1q c1-1r c1-1f c1-3z c1-1t c1-b c1-31 c1-44 c1-4c c1-46 c1-47 c1-48 c1-49 c1-4a c1-4b" data-tccl="ux2.HEADER.header9.Nav.Default.Link.Active.289896.click,click">Portfolio</a>
+															<div data-ux="Block" class="x-el x-el-div c1-4 c1-6e c1-1j c1-5e c1-5g c1-5h c1-5i c1-5j" style="border: 0px;border-bottom-width: 2px;border-color: rgb(209, 235, 0);border-style: solid;font-size: 2px;line-height: 1em;">
+																<hr aria-hidden="true" role="separator" data-ux="SectionHeadingHR" class="x-el x-el-hr c1-6f c1-6g c1-6h c1-18 c1-6j c1-1i c1-1j c1-5e c1-5g c1-5h c1-5i c1-5j" style="margin-top: 5px;">
+															</div>
+														 </li>
                                                          <li data-ux="ListItemInline" class="x-el x-el-li nav-item c1-1 c1-2 c1-3p c1-19 c1-3q c1-1i c1-3r c1-34 c1-3s c1-3t c1-s c1-3u c1-b c1-c c1-3v c1-3w c1-d c1-e c1-f c1-g" style="visibility:visible"><a rel="" role="link" aria-haspopup="false" data-ux="NavLink" target="" data-page="46c55332-b65e-46ac-9b9d-d65bf582bd72" data-edit-interactive="true" href="about.html" data-typography="NavAlpha" class="x-el x-el-a c1-3x c1-3y c1-1q c1-1r c1-1f c1-3z c1-1t c1-40 c1-41 c1-42 c1-43 c1-38 c1-36 c1-35 c1-37 c1-b c1-31 c1-44 c1-45 c1-46 c1-47 c1-48 c1-49 c1-4a c1-4b" data-tccl="ux2.HEADER.header9.Nav.Default.Link.Default.289897.click,click">About</a></li>
                                                       </ul>
                                                    </nav>
@@ -233,7 +236,7 @@
                                        </div>
                                     </nav>
                                  </div>
-                              </div>
+                              </div></div>
                               <div role="navigation" data-ux="NavigationDrawer" id="n-289883-navId-mobile" class="x-el x-el-div c1-1 c1-2 c1-4x c1-4y c1-4z c1-4 c1-50 c1-4p c1-51 c1-i c1-52 c1-53 c1-54 c1-55 c1-56 c1-57 c1-15 c1-58 c1-b c1-c c1-d c1-e c1-f c1-g">
                                  <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-v c1-w c1-b c1-c c1-d c1-e c1-f c1-g">
                                     <svg viewBox="0 0 24 24" fill="currentColor" width="40px" height="40px" data-ux="CloseIcon" data-edit-interactive="true" data-close="true" class="x-el x-el-svg c1-1 c1-2 c1-59 c1-1i c1-2b c1-35 c1-36 c1-37 c1-38 c1-1t c1-5a c1-5b c1-4l c1-5c c1-5d c1-5e c1-b c1-5f c1-5g c1-5h c1-5i c1-5j">
@@ -259,7 +262,7 @@
                   <div data-ux="Widget" role="region" id="9c662841-443c-46a9-a03e-396dd8c8f8ba" class="x-el x-el-div x-el c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
                      <div>
                         <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-h c1-i c1-j c1-b c1-c c1-m c1-n c1-d c1-e c1-f c1-g">
-                           <div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-29 c1-2a c1-v c1-w c1-1y c1-b c1-c c1-5m c1-d c1-5n c1-e c1-5o c1-f c1-5p c1-g">
+                           <div data-ux="Container" style="padding-top: 5px;" class="x-el x-el-div c1-1 c1-2 c1-29 c1-2a c1-v c1-w c1-1y c1-b c1-c c1-5m c1-d c1-5n c1-e c1-5o c1-f c1-5p c1-g">
                               <h1 role="heading" aria-level="1" data-ux="SectionHeading" data-aid="MENU_SECTION_TITLE_RENDERED" data-promoted-from="2" data-order="0" data-typography="HeadingAlpha" data-font-scaled="true" class="x-el x-el-h1 c1-1 c1-2 c1-1r c1-1f c1-65 c1-29 c1-17 c1-16 c1-66 c1-67 c1-1j c1-31 c1-5e c1-45 c1-5g c1-68 c1-69 c1-5h c1-5i c1-5j">
                                  <span data-ux="Element" class="x-el x-el-span c1-6a c1-33 c1-6b c1-6c c1-6d">- UX -</span>
                                  <div data-ux="Block" class="x-el x-el-div c1-4 c1-6e c1-1j c1-5e c1-5g c1-5h c1-5i c1-5j">
@@ -344,7 +347,7 @@
                                                                   </div>
                                                                </div>
                                                                <div data-ux="Text" data-aid="MENU_SECTION0_ITEM2_DESC" fontScaleMultiplier="1.12" data-typography="BodyAlpha" data-font-scaled="true" class="x-el c1-1 c1-2 c1-1r c1-1f c1-4w c1-80 c1-18 c1-b c1-3p c1-81 c1-45 c1-7q c1-2p c1-2n c1-82 c1-83 c1-84 c1-85 x-rt">
-                                                                  <p style="margin:0"><span>A system integrated, holistic approach towards providing healthier alternatives to digital past times & cultivating user awareness.</span></p>
+                                                                  <p style="margin:0"><span>A system integrated, holistic approach towards cultivating user awareness on screen addiction & developing healthier alternatives to digital past times.</span></p>
                                                                   <p style="margin:0"><span><br></span></p>
                                                                   <p style="margin:0"><span>#digitalhealth #wearable #mobile</span></p>
                                                                </div>
@@ -548,7 +551,6 @@
                                                                <div data-ux="Text" data-aid="MENU_SECTION0_ITEM0_DESC" fontScaleMultiplier="1.12" data-typography="BodyAlpha" data-font-scaled="true" class="x-el c1-1 c1-2 c1-1r c1-1f c1-4w c1-80 c1-18 c1-b c1-3p c1-81 c1-45 c1-7q c1-2p c1-2n c1-82 c1-83 c1-84 c1-85 x-rt">
                                                                   <p style="margin:0"><span>A collection of artworks in traditional and mixed/digital mediums.</span></p>
                                                                   <p style="margin:0"><span><br></span></p>
-                                                                  <p style="margin:0"><span>#fineart #wet&drymedia #digitalart</span></p>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -568,7 +570,6 @@
                                                                <div data-ux="Text" data-aid="MENU_SECTION0_ITEM1_DESC" fontScaleMultiplier="1.12" data-typography="BodyAlpha" data-font-scaled="true" class="x-el c1-1 c1-2 c1-1r c1-1f c1-4w c1-80 c1-18 c1-b c1-3p c1-81 c1-45 c1-7q c1-2p c1-2n c1-82 c1-83 c1-84 c1-85 x-rt">
                                                                   <p style="margin:0"><span>A collection of artworks in various traditional printmaking mediums.</span></p>
                                                                   <p style="margin:0"><span><br></span></p>
-                                                                  <p style="margin:0"><span>#relief #intaglio #photographic</span></p>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -588,7 +589,6 @@
                                                                <div data-ux="Text" data-aid="MENU_SECTION0_ITEM2_DESC" fontScaleMultiplier="1.12" data-typography="BodyAlpha" data-font-scaled="true" class="x-el c1-1 c1-2 c1-1r c1-1f c1-4w c1-80 c1-18 c1-b c1-3p c1-81 c1-45 c1-7q c1-2p c1-2n c1-82 c1-83 c1-84 c1-85 x-rt">
                                                                   <p style="margin:0"><span>A short graphical story on the introspection of existence.</span></p>
                                                                   <p style="margin:0"><span><br></span></p>
-                                                                  <p style="margin:0"><span>#narrative #shortstory #philosophy</span></p>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -687,9 +687,9 @@
                                                       <div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-6k c1-6u c1-6v c1-6w c1-79 c1-24 c1-6x c1-6y c1-6z c1-15 c1-7a c1-b c1-c c1-7b c1-7c c1-70 c1-71 c1-72 c1-73 c1-d c1-7d c1-7e c1-e c1-f c1-g">
                                                          <div data-ux="Block" data-aid="MENU_ITEM_DEADLYPACM" class="x-el x-el-div c1-1 c1-2 c1-4 c1-7f c1-7g c1-7h c1-6y c1-b c1-c c1-3e c1-d c1-e c1-f c1-g">
                                                             <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
-                                                               <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-15 c1-7a c1-13 c1-b c1-c c1-d c1-e c1-f c1-g"><a data-ux="Element" href="deadly-pac-man-1.html" target="" rel="" data-page="8b7b2632-1455-48a8-a2be-8394d8dec183" class="x-el x-el-a c1-1 c1-2 c1-1q c1-1t c1-b c1-c c1-d c1-e c1-f c1-g"><img src="isteam/ip/418d1a46-be94-4191-8ba8-9cc346a1f32b/Grid-10.jpg" data-ux="Image" data-aid="MENU_SECTION0_ITEM2_IMAGE" data-section-jump="" class="x-el x-el-img c1-1 c1-2 c1-1z c1-1y c1-29 c1-2a c1-16 c1-18 c1-2b c1-2c c1-1t c1-7k c1-7l c1-b c1-c c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g"/></a></div>
+                                                               <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-15 c1-7a c1-13 c1-b c1-c c1-d c1-e c1-f c1-g"><a data-ux="Element" href="deadly-pac-man.html" target="" rel="" data-page="8b7b2632-1455-48a8-a2be-8394d8dec183" class="x-el x-el-a c1-1 c1-2 c1-1q c1-1t c1-b c1-c c1-d c1-e c1-f c1-g"><img src="isteam/ip/418d1a46-be94-4191-8ba8-9cc346a1f32b/Grid-10.jpg" data-ux="Image" data-aid="MENU_SECTION0_ITEM2_IMAGE" data-section-jump="" class="x-el x-el-img c1-1 c1-2 c1-1z c1-1y c1-29 c1-2a c1-16 c1-18 c1-2b c1-2c c1-1t c1-7k c1-7l c1-b c1-c c1-7m c1-7n c1-7o c1-d c1-e c1-f c1-g"/></a></div>
                                                                <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-6l c1-15 c1-5w c1-4 c1-7p c1-6w c1-b c1-c c1-7q c1-2p c1-2n c1-7r c1-d c1-e c1-f c1-g">
-                                                                  <a data-ux="Element" href="deadly-pac-man-1.html" target="" rel="" data-page="8b7b2632-1455-48a8-a2be-8394d8dec183" class="x-el x-el-a c1-1 c1-2 c1-1q c1-1t c1-b c1-c c1-7s c1-7t c1-d c1-e c1-f c1-g">
+                                                                  <a data-ux="Element" href="deadly-pac-man.html" target="" rel="" data-page="8b7b2632-1455-48a8-a2be-8394d8dec183" class="x-el x-el-a c1-1 c1-2 c1-1q c1-1t c1-b c1-c c1-7s c1-7t c1-d c1-e c1-f c1-g">
                                                                      <h4 role="heading" aria-level="4" data-ux="HeadingMinor" data-aid="MENU_SECTION0_ITEM2_TITLE" data-typography="HeadingBeta" data-font-scaled="true" class="x-el x-el-h4 c1-1 c1-2 c1-1r c1-1f c1-77 c1-19 c1-17 c1-16 c1-18 c1-1j c1-5x c1-20 c1-45 c1-60 c1-62 c1-63 c1-64">Deadly Pac-Man</h4>
                                                                   </a>
                                                                   <div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-4u c1-7u c1-b c1-c c1-7v c1-7w c1-7x c1-6q c1-7y c1-d c1-e c1-f c1-g">
@@ -746,5 +746,22 @@
       <script src="blobby/go/418d1a46-be94-4191-8ba8-9cc346a1f32b/gpub/73cadd7f0ff877df/script.js"> </script>
       <script src="ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.33.0.js"></script>
       <script src="blobby/go/418d1a46-be94-4191-8ba8-9cc346a1f32b/gpub/eda2cc3f054011f3/script.js"></script>
+	  <script>
+	  
+		 window.addEventListener("scroll", changeCss , false);
+		 
+		 function changeCss(){  
+		 
+			var scroll = this.scrollY;
+			
+			var element = document.getElementById("header_stickynav");
+  
+			if (scroll > 0) {
+				element.classList.add("scrollHeader");
+			} else {
+				element.classList.remove("scrollHeader");
+			}
+		}
+		</script>
    </body>
 </html>
