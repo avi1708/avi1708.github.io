@@ -185,6 +185,11 @@
 		 width: auto;
          }
 		 
+		 #main-carousel-slide09 img, #main-carousel2-slide08 img{
+				width: 1000px !important; 
+				object-fit: contain !important;
+			}
+			
 		 @media (max-width: 600px){
 			 #thumbnail-carousel .splide__slide img {
 				height: 38px;
@@ -201,6 +206,9 @@
 			
 			#main-carousel2 .splide__slide img {
 				height: 210px;
+			}
+			#main-carousel-slide09 img, #main-carousel2-slide08 img{
+				width: 350px !important; 
 			}
 		 }
 		 
@@ -247,6 +255,8 @@
 		.splide__arrow:focus{
 		outline: none;
 		}
+		
+		
       </style>
       <script>"use strict";
          if ('serviceWorker' in navigator) {
@@ -689,7 +699,7 @@
          
 			var thumbnails = new Splide( '#thumbnail-carousel', {
 				fixedWidth  : 100,
-				fixedHeight : 60,
+				fixedHeight : 58,
 				gap         : 10,
 				rewind      : true,
 				pagination  : false,
@@ -718,7 +728,7 @@
          
 			var thumbnails2 = new Splide( '#thumbnail-carousel2', {
 				fixedWidth  : 100,
-				fixedHeight : 60,
+				fixedHeight : 58,
 				gap         : 10,
 				rewind      : true,
 				pagination  : false,
